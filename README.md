@@ -48,7 +48,7 @@
 - 게임 종료하기
 
 뽑기
-- 1~30 리스트 중 랜덤으로 하나 뽑아 사용자 캐릭터 리스트에 전달
+- 1~30 리스트 중 랜덤으로 하나 뽑아 사용자 캐릭터 리스트에 전달한다.
 
 ## diagram
 [뽑기 게임 다이어그램](https://whimsical.com/charactergame-VAQ5FLwr3m8mx4ko7XRu7L)
